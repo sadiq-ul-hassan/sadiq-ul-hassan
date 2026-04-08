@@ -29,4 +29,4 @@ Currently focusing on improving my skills in Data Science and ML.
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [your link]
+- LinkedIn:www.linkedin.com/in/syed-muhammad-sadiq-ul-hassan
